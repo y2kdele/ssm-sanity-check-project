@@ -1,0 +1,1 @@
+# ssm-sanity-check-project
